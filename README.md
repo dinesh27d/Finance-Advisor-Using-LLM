@@ -25,7 +25,7 @@ huggingface-cli login
 ```
 Follow the prompts to enter your Hugging Face token. You can get your token from Hugging Face Account Settings.
 ### 4. Download the Model
-Download the ```TheBloke/finance-LLM-GGUF``` model from Hugging Face:
+Download the [```TheBloke/finance-LLM-GGUF```](https://huggingface.co/TheBloke/finance-LLM-GGUF) model from Hugging Face:
 ```
 git lfs install
 git clone https://huggingface.co/TheBloke/finance-LLM-GGUF
