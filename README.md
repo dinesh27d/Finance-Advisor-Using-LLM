@@ -10,8 +10,8 @@ This project uses the TheBloke/finance-LLM-GGUF model from Hugging Face to gener
 ## Setup Instructions
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/dinesh27d/Finance-Advisor-Using-LLM.git
+cd Finance-Advisor-Using-LLM
 ```
 ### 2. Install Dependencies
 Ensure you have all required dependencies installed:
